@@ -1,0 +1,8 @@
+**/node_modules
+npm-debug.log
+yarn-error.log
+
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:eriksongoncalves/omnistack-11.git
+git push -u origin master

@@ -1,4 +1,5 @@
 const crypto = require("crypto");
+const { celebrate, Segments, Joi } = require("celebrate");
 const connection = require("../database/connection");
 
 module.exports = {
